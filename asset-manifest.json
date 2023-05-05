@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/album-manager/static/css/main.d96b0587.css",
+    "main.js": "/album-manager/static/js/main.eb22cb18.js",
+    "index.html": "/album-manager/index.html",
+    "main.d96b0587.css.map": "/album-manager/static/css/main.d96b0587.css.map",
+    "main.eb22cb18.js.map": "/album-manager/static/js/main.eb22cb18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d96b0587.css",
+    "static/js/main.eb22cb18.js"
+  ]
+}
