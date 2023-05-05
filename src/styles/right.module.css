@@ -1,0 +1,26 @@
+.right{
+    display: flex;
+    justify-content: center;
+    width: 75%;
+    max-height: 100%;
+    overflow-y: scroll;
+}
+.right::-webkit-scrollbar{
+    width: .5em;
+}
+.right::-webkit-scrollbar-track{
+    
+    -webkit-box-shadow: inset 0 0 4px rgb(0, 0, .3);
+}
+.right::-webkit-scrollbar-thumb {
+    background-color: grey;
+    border-radius: 10px;
+}
+.albumList {
+    margin:5vh;
+}
+.extra{
+    height: 5vh;
+    width: 5vh;
+    background-color:black;
+}
